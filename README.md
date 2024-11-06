@@ -39,10 +39,10 @@ So , if token launcher hold his token on that moment , he can own this token on 
 In terms of aspect of bundling , there are many things which take effect in bundling
 But the most important thing in bundling is wallet count which buys token with in the moment of token launching
 
-## Max Number for bundling for 22 wallets 
+## Max Number for bundling for 16 wallets 
 
 Bot of this repo proceeds bundle buy with 2 wallets.
-Of cause , we can proceed bundle with custom wallet count within 22 wallets
+Of cause , we can proceed bundle with custom wallet count within 16 wallets
 It's paid project
 Contact me if you need that bundling project
 
@@ -52,7 +52,7 @@ Contact me if you need that bundling project
 
 | Aspect | Free | Paid |
 | :---: | --- | --- |
-| Bundle Wallet Count | 2 | 22 (Max) |
+| Bundle Wallet Count | 2 | 16 (Max) |
 
 ## Installation
 
